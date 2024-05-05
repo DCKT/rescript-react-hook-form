@@ -7,5 +7,5 @@ dist-ssr
 # ReScript
 .bsb.lock
 .merlin
-/lib/
+/lib/bs/
 *.bs.js
